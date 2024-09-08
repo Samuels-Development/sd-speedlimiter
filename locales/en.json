@@ -1,0 +1,19 @@
+{
+  "error": {
+    "speed_limiter_unavailable": "Speed Limiter Unavailable on this vehicle",
+    "speed_limiter_max_reached": "Speed Limiter Speed Limit Reached"
+  },
+  "success": {
+    "speed_limiter_activated": "Speed Limiter Activated: ",
+    "speed_limiter_increased": "Speed Limiter Speed Increased: ",
+    "speed_limiter_decreased": "Speed Limiter Speed Decreased: "
+  },
+  "warning": {
+    "speed_limiter_deactivated": "Speed Limiter Deactivated"
+  },
+  "keymap": {
+    "toggle_speed_limiter": "Toggle Speed Limiter",
+    "raise_speed_limiter": "Raise Speed Limiter",
+    "lower_speed_limiter": "Lower Speed Limiter"
+  }
+}
