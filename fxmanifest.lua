@@ -3,7 +3,7 @@ game 'gta5'
 
 name "Speed Limiter"
 author "Made with love by Samuel#0008"
-Version "1.0.1"
+Version "1.0.0"
 
 client_scripts { 'client/*.lua' }
 
