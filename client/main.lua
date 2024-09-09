@@ -1,4 +1,5 @@
 local locale = SD.Locale.T
+SD.Locale.LoadLocale('en')
 
 local vehicleClasses = {
     ["Cycles"] = true,
